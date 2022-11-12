@@ -5,8 +5,6 @@
     <AssemblyName>orders.NET</AssemblyName>
     <OutputType>Exe</OutputType>
     <PackageId>orders.NET</PackageId>
-    <RuntimeFrameworkVersion>1.1.1</RuntimeFrameworkVersion>
-    <PackageTargetFallback>$(PackageTargetFallback);dotnet5.6;portable-net45+win8</PackageTargetFallback>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics" Version="1.0.2" />
